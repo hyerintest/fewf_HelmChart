@@ -15,7 +15,7 @@ batch:
   name: batch-service-1-4d2eme4zvd
   image:
     name: batch-service-1-4d2eme4zvd
-    tag: lastest
+    tag: "8149-4704-batch-service-1-4d2eme4zvd-92ad4a0"
     secret: regsecret
   container:
     name: batch-service-1-4d2eme4zvd
