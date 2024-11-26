@@ -15,7 +15,7 @@ batch:
   name: batch-service-2-kc1adzinwi
   image:
     name: batch-service-2-kc1adzinwi
-    tag: lastest
+    tag: "8149-4704-batch-service-2-kc1adzinwi-22538be"
     secret: regsecret
   container:
     name: batch-service-2-kc1adzinwi
